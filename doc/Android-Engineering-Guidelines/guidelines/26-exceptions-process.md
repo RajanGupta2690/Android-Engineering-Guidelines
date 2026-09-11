@@ -1,6 +1,6 @@
 # 26 · Exceptions & Exception Process
 
-[← 25 Decision Tables](25-decision-tables.md) · [README](../README.md) · **Next:** [27 · Golden Rules & Checklists →](27-golden-rules-checklists.md)
+[← 25 Decision Tables](25-decision-tables.md) · [README](../../../README.md) · **Next:** [27 · Golden Rules & Checklists →](27-golden-rules-checklists.md)
 
 > Authority: 🟣 **Team Standard**. Severity 🔴 — the *process* is mandatory even when a rule is being broken.
 

@@ -1,6 +1,6 @@
 # 13 · Error Handling & Logging
 
-[← 12 Dependency Injection](12-dependency-injection.md) · [README](../README.md) · **Next:** [14 · Security →](14-security.md)
+[← 12 Dependency Injection](12-dependency-injection.md) · [README](../../../README.md) · **Next:** [14 · Security →](14-security.md)
 
 > Authority: 🟠 **Strong Engineering** + 🟢 official privacy/security for logging. Severity 🔴 for "no swallowed exceptions" and "no secrets/PII in logs".
 

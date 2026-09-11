@@ -1,6 +1,6 @@
 # 04 · Naming Conventions
 
-[← 03 Kotlin](03-kotlin.md) · [README](../README.md) · **Next:** [05 · Coroutines →](05-coroutines-concurrency.md)
+[← 03 Kotlin](03-kotlin.md) · [README](../../../README.md) · **Next:** [05 · Coroutines →](05-coroutines-concurrency.md)
 
 > Authority: 🔵 **Kotlin Coding Conventions** + 🟢 **Android Kotlin style guide**, applied as 🔴 **Mandatory** team standard. Case rules are the Kotlin official conventions; the component tables are our team standard.
 

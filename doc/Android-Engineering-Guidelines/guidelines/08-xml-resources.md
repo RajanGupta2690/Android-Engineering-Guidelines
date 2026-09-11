@@ -1,6 +1,6 @@
 # 08 · XML Standards, Resources & Images
 
-[← 07 UI & Compose](07-ui-compose.md) · [README](../README.md) · **Next:** [09 · Lifecycle →](09-lifecycle.md)
+[← 07 UI & Compose](07-ui-compose.md) · [README](../../../README.md) · **Next:** [09 · Lifecycle →](09-lifecycle.md)
 
 > Rules for XML layouts (View-based UI), all resource files, and — importantly — **how to choose and manage images** so the app stays small and fast.
 >

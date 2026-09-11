@@ -1,6 +1,6 @@
 # 10 · Networking
 
-[← 09 Lifecycle](09-lifecycle.md) · [README](../README.md) · **Next:** [11 · Database & Storage →](11-database-storage.md)
+[← 09 Lifecycle](09-lifecycle.md) · [README](../../../README.md) · **Next:** [11 · Database & Storage →](11-database-storage.md)
 
 > Authority: 🟠 **Strong Engineering** built on 🟢 [official Android networking](https://developer.android.com/develop/connectivity) + widely used Retrofit/OkHttp.
 

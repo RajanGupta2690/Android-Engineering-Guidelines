@@ -1,6 +1,6 @@
 # 27 · Golden Rules, Developer Checklists & Official References
 
-[← 26 Exception Process](26-exceptions-process.md) · [README](../README.md)
+[← 26 Exception Process](26-exceptions-process.md) · [README](../../../README.md)
 
 > The one-page summary: non-negotiable rules, staged checklists, and the official sources that back this rulebook.
 
@@ -167,7 +167,7 @@
 
 ---
 
-[↑ Back to README](../README.md)
+[↑ Back to README](../../../README.md)
 #
 #
 #

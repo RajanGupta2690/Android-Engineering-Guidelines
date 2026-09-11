@@ -1,6 +1,6 @@
 # 18 · Performance Engineering
 
-[← 17 Gradle & Build](17-gradle-build.md) · [README](../README.md) · **Next:** [19 · Background Work →](19-background-work.md)
+[← 17 Gradle & Build](17-gradle-build.md) · [README](../../../README.md) · **Next:** [19 · Background Work →](19-background-work.md)
 
 > Authority: 🟢 **Official** — [App performance](https://developer.android.com/topic/performance), [App startup](https://developer.android.com/topic/performance/vitals/launch-time), [Compose performance](https://developer.android.com/develop/ui/compose/performance). Severity 🔴 for main-thread and ANR rules.
 

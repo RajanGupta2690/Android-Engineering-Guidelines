@@ -1,6 +1,6 @@
 # 17 · Gradle, Build Configuration, Dependencies & Release Engineering
 
-[← 16 · 16 KB Page-Size](16-16kb-page-size.md) · [README](../README.md) · **Next:** [18 · Performance →](18-performance.md)
+[← 16 · 16 KB Page-Size](16-16kb-page-size.md) · [README](../../../README.md) · **Next:** [18 · Performance →](18-performance.md)
 
 > Authority: 🟢 **Official** — [AGP](https://developer.android.com/build), [Version catalogs](https://docs.gradle.org/current/userguide/platforms.html); 🟠/🟣 for engineering + team conventions.
 

@@ -1,6 +1,6 @@
 # 03 · Kotlin Coding Standards & Language Usage
 
-[← 02 Architecture](02-project-architecture.md) · [README](../README.md) · **Next:** [04 · Naming →](04-naming-conventions.md)
+[← 02 Architecture](02-project-architecture.md) · [README](../../../README.md) · **Next:** [04 · Naming →](04-naming-conventions.md)
 
 > Formatting + language idioms + the rules that keep code neat, clean, and small. Naming is big enough for its own file → [04 · Naming](04-naming-conventions.md).
 >

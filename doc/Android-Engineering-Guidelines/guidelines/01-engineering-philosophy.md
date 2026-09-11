@@ -1,6 +1,6 @@
 # 01 · Engineering Philosophy, Purpose & Authority
 
-[← Back to README](../README.md) · **Next:
+[← Back to README](../../../README.md) · **Next:
 ** [02 · Project Architecture →](02-project-architecture.md)
 
 > This file sets the ground rules for *how to read and apply* everything else: what this rulebook is
@@ -40,7 +40,7 @@ prefers this."* When those blur, people either treat team preferences as laws or
 platform requirements as opinions. So every rule gets an **authority** label and a **severity**
 label.
 
-See the [README → How to read every rule](../README.md#how-to-read-every-rule) for the label tables.
+See the [README → How to read every rule](../../../README.md#how-to-read-every-rule) for the label tables.
 
 ### 2.2 Authority is not severity
 

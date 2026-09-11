@@ -1,6 +1,6 @@
 # 25 · Decision Tables
 
-[← 24 Code Smells](24-code-smells.md) · [README](../README.md) · **Next:** [26 · Exception Process →](26-exceptions-process.md)
+[← 24 Code Smells](24-code-smells.md) · [README](../../../README.md) · **Next:** [26 · Exception Process →](26-exceptions-process.md)
 
 > A quick "which should I use?" reference. When two approaches both work, this table gives the default and the reason. Detailed rationale lives in each linked file.
 

@@ -1,6 +1,6 @@
 # 23 · Accessibility & Internationalization
 
-[← 22 Static Analysis](22-static-analysis-quality.md) · [README](../README.md) · **Next:** [24 · Code Smells →](24-code-smells.md)
+[← 22 Static Analysis](22-static-analysis-quality.md) · [README](../../../README.md) · **Next:** [24 · Code Smells →](24-code-smells.md)
 
 > Authority: 🟢 **Official** — [Accessibility](https://developer.android.com/guide/topics/ui/accessibility), [Localization](https://developer.android.com/guide/topics/resources/localization). Accessibility and localization are part of UI quality, not extras.
 

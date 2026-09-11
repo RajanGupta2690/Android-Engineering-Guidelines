@@ -1,6 +1,6 @@
 # 24 · Code Smells We Do Not Accept + Good vs Bad Examples
 
-[← 23 Accessibility & i18n](23-accessibility-i18n.md) · [README](../README.md) · **Next:** [25 · Decision Tables →](25-decision-tables.md)
+[← 23 Accessibility & i18n](23-accessibility-i18n.md) · [README](../../../README.md) · **Next:** [25 · Decision Tables →](25-decision-tables.md)
 
 > Authority: 🟠 **Strong Engineering**. A "smell" is a warning sign, not always a defect — context decides. Each entry: the problem, a better approach, and the legitimate exception.
 

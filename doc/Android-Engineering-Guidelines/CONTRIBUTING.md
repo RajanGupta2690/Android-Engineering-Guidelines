@@ -38,7 +38,7 @@ These guidelines are a living document owned by the Android team. This file expl
 
 ## 4. Keeping platform facts current — 🔴 do this every quarter and after each Android major
 
-The [README currency box](README.md#currency-verified-against-official-sources--september-2026) and these files contain time-sensitive facts. Re-verify against the live official docs:
+The [README currency box](../../README.md#currency-verified-against-official-sources--september-2026) and these files contain time-sensitive facts. Re-verify against the live official docs:
 
 ```text
 [ ] Google Play target API requirement (README, 17) — currently Android 16 / API 36

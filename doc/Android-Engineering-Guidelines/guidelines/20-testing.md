@@ -1,6 +1,6 @@
 # 20 · Testing
 
-[← 19 Background Work](19-background-work.md) · [README](../README.md) · **Next:** [21 · Git & Code Review →](21-git-code-review.md)
+[← 19 Background Work](19-background-work.md) · [README](../../../README.md) · **Next:** [21 · Git & Code Review →](21-git-code-review.md)
 
 > Authority: 🟢 **Official** — [Test apps on Android](https://developer.android.com/training/testing) + 🟠 engineering. We don't mandate a test on *every* change, but logic changes should be tested, and CI quality gates ([22](22-static-analysis-quality.md)) are 🔴.
 

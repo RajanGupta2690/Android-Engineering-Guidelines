@@ -1,6 +1,6 @@
 # 22 · Static Analysis, Quality Gates & Deprecated APIs
 
-[← 21 Git & Code Review](21-git-code-review.md) · [README](../README.md) · **Next:** [23 · Accessibility & i18n →](23-accessibility-i18n.md)
+[← 21 Git & Code Review](21-git-code-review.md) · [README](../../../README.md) · **Next:** [23 · Accessibility & i18n →](23-accessibility-i18n.md)
 
 > Authority: 🟢 **Official** — [Android Lint](https://developer.android.com/studio/write/lint), [API deprecation]; 🟠 engineering. Severity 🔴 for CI gates.
 

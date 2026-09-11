@@ -1,6 +1,6 @@
 # 15 · R8 / ProGuard (Shrinking, Obfuscation, Release Builds)
 
-[← 14 Security](14-security.md) · [README](../README.md) · **Next:**
+[← 14 Security](14-security.md) · [README](../../../README.md) · **Next:**
 #
 # [16 · 16 KB Page-Size →](16-16kb-page-size.md)
 

@@ -1,6 +1,6 @@
 # 11 · Database & Local Storage
 
-[← 10 Networking](10-networking.md) · [README](../README.md) · **Next:** [12 · Dependency Injection →](12-dependency-injection.md)
+[← 10 Networking](10-networking.md) · [README](../../../README.md) · **Next:** [12 · Dependency Injection →](12-dependency-injection.md)
 
 > Authority: 🟢 **Official** — [Room](https://developer.android.com/training/data-storage/room), [DataStore](https://developer.android.com/topic/libraries/architecture/datastore).
 

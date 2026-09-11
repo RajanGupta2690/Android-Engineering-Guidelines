@@ -1,6 +1,6 @@
 # 09 · Android Lifecycle
 
-[← 08 XML & Resources](08-xml-resources.md) · [README](../README.md) · **Next:** [10 · Networking →](10-networking.md)
+[← 08 XML & Resources](08-xml-resources.md) · [README](../../../README.md) · **Next:** [10 · Networking →](10-networking.md)
 
 > Authority: 🟢 **Official** — [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle), [Saved state & process death](https://developer.android.com/topic/libraries/architecture/saving-states). Severity 🔴 for the leak/collection rules.
 

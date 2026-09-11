@@ -1,6 +1,6 @@
 # 07 · UI Architecture (Compose & XML Views)
 
-[← 06 Android Architecture](06-android-architecture.md) · [README](../README.md) · **Next:** [08 · XML, Resources & Images →](08-xml-resources.md)
+[← 06 Android Architecture](06-android-architecture.md) · [README](../../../README.md) · **Next:** [08 · XML, Resources & Images →](08-xml-resources.md)
 
 > How we build screens: choosing Compose vs XML Views, holding state correctly, delivering one-time events, and handling every screen state.
 

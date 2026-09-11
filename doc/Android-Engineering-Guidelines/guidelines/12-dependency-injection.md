@@ -1,6 +1,6 @@
 # 12 · Dependency Injection & Singleton Policy
 
-[← 11 Database & Storage](11-database-storage.md) · [README](../README.md) · **Next:** [13 · Error Handling & Logging →](13-error-handling-logging.md)
+[← 11 Database & Storage](11-database-storage.md) · [README](../../../README.md) · **Next:** [13 · Error Handling & Logging →](13-error-handling-logging.md)
 
 > Authority: 🟢 **Official** — [Hilt / DI](https://developer.android.com/training/dependency-injection). Singleton policy is 🟠 Strong Engineering.
 

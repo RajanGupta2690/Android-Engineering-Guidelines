@@ -1,6 +1,6 @@
 # 06 · Android Architecture (Layer Responsibilities)
 
-[← 05 Coroutines](05-coroutines-concurrency.md) · [README](../README.md) · **Next:** [07 · UI & Compose →](07-ui-compose.md)
+[← 05 Coroutines](05-coroutines-concurrency.md) · [README](../../../README.md) · **Next:** [07 · UI & Compose →](07-ui-compose.md)
 
 > The big-picture layering is in [02 · Project Architecture](02-project-architecture.md). This file says exactly **what each layer does, what it must NOT do, and how data moves between them.**
 >

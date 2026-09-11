@@ -1,6 +1,6 @@
 # 14 · Security
 
-[← 13 Error Handling & Logging](13-error-handling-logging.md) · [README](../README.md) · **Next:** [15 · R8 / ProGuard →](15-r8-proguard.md)
+[← 13 Error Handling & Logging](13-error-handling-logging.md) · [README](../../../README.md) · **Next:** [15 · R8 / ProGuard →](15-r8-proguard.md)
 
 > Authority: 🟢 **Official** — [Security best practices](https://developer.android.com/privacy-and-security/security-tips), [Network security config](https://developer.android.com/privacy-and-security/security-config). Severity 🔴 for transport, secrets, and exported-component rules.
 

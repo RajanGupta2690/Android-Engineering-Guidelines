@@ -1,6 +1,6 @@
 # 02 · Project Architecture
 
-[← 01 Philosophy](01-engineering-philosophy.md) · [README](../README.md) · **Next:** [03 · Kotlin →](03-kotlin.md)
+[← 01 Philosophy](01-engineering-philosophy.md) · [README](../../../README.md) · **Next:** [03 · Kotlin →](03-kotlin.md)
 
 > How the codebase is organized top to bottom: the layers, which way dependencies point, when to add a domain layer, and how to structure modules. Detailed layer *responsibilities* live in [06 · Android Architecture](06-android-architecture.md).
 

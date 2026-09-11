@@ -1,6 +1,6 @@
 # 05 · Coroutines & Concurrency
 
-[← 04 Naming](04-naming-conventions.md) · [README](../README.md) · **Next:** [06 · Android Architecture →](06-android-architecture.md)
+[← 04 Naming](04-naming-conventions.md) · [README](../../../README.md) · **Next:** [06 · Android Architecture →](06-android-architecture.md)
 
 > Authority: 🟢 **Official** — [Kotlin coroutines](https://kotlinlang.org/docs/coroutines-overview.html) + [Android coroutines best practices](https://developer.android.com/kotlin/coroutines/coroutines-best-practices). Most rules here are 🔴 Mandatory because misuse causes leaks, ANRs, and crashes.
 

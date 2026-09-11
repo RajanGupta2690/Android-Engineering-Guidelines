@@ -1,6 +1,6 @@
 # 16 · 16 KB Page-Size Compatibility
 
-[← 15 R8 / ProGuard](15-r8-proguard.md) · [README](../README.md) · **Next:** [17 · Gradle & Build →](17-gradle-build.md)
+[← 15 R8 / ProGuard](15-r8-proguard.md) · [README](../../../README.md) · **Next:** [17 · Gradle & Build →](17-gradle-build.md)
 
 > Authority: 🟢 **Official** — [Support 16 KB page sizes](https://developer.android.com/guide/practices/page-sizes). Severity 🔴 **Mandatory** — this is a Google Play requirement.
 
@@ -16,7 +16,7 @@ The operating system manages RAM in fixed-size blocks called **pages**. Android 
 
 - Apps **targeting Android 15 (API 35) or higher must support 16 KB page sizes on 64-bit devices** to comply with Google Play.
 - **From February 1, 2027**, app updates that don't support 16 KB **cannot be released** on Google Play.
-- Our target is **Android 16 (API 36)** ([README currency](../README.md#currency-verified-against-official-sources--september-2026)), so **this applies to us now.**
+- Our target is **Android 16 (API 36)** ([README currency](../../../README.md#currency-verified-against-official-sources--september-2026)), so **this applies to us now.**
 
 ---
 

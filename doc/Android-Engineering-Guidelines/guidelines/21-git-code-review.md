@@ -1,6 +1,6 @@
 # 21 · Git & Code Review
 
-[← 20 Testing](20-testing.md) · [README](../README.md) · **Next:** [22 · Static Analysis & Quality →](22-static-analysis-quality.md)
+[← 20 Testing](20-testing.md) · [README](../../../README.md) · **Next:** [22 · Static Analysis & Quality →](22-static-analysis-quality.md)
 
 > Authority: 🟣 **Team Standard**. Severity 🔴 for the PR gate.
 
